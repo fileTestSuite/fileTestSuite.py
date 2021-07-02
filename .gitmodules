@@ -1,0 +1,5 @@
+[submodule "testDataset"]
+	path = tests/testDataset
+	url = https://github.com/fileTestSuite/tests.git
+	branch = master
+	shallow = true
